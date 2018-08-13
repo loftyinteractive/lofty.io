@@ -1,0 +1,15 @@
+.hello {
+  color: red; }
+
+.nav__list {
+  display: flex;
+  justify-content: space-between; }
+
+.container {
+  max-width: 1305px;
+  margin: 0 auto; }
+
+.col-2 {
+  display: flex; }
+
+/*# sourceMappingURL=main.css.map */
